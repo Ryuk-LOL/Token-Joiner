@@ -94,4 +94,4 @@ Feel free to fork, modify, and improve the project. Contributions are welcome!
 
 ### 1. **Clone the repository** or download the zip file:
 ```bash
-git clone https://github.com/yourusername/AutoServerJoiner.git
+git clone https://github.com/Ryuk-LOL/Token-Joiner.git
